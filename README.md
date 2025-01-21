@@ -1,4 +1,4 @@
-# Code for the paper "Large-image Object Detection for Fine-grained Recognition of Punches Patterns in Medieval Panel Painting"
+# Code for the paper "Large-image Object Detection for Fine-grained Recognition of Punches Patterns in Medieval Panel Painting", by Josh Bruegger et al. Published at EvoMUSART, March 2025
 
 ## Environment setup
 
