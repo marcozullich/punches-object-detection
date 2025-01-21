@@ -18,7 +18,7 @@ All the procedure indicated in this repository will run in the yolo environment.
 
 ### Dataset
 
-We are currently trying to work out a solution for hosting the dataset. Please email us for accessing the data.
+We are currently trying to work out a solution for hosting the dataset. Please send an email to marco.zullich@gmail.com for gaining access to the data.
 
 Set up the datasets folder in using YOLO format:
 
